@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: WKND SPA React - UI content
+Content-Package-Roots: /conf/wknd-spa-react,/content/dam/wknd-spa-reac
+ t,/content/experience-fragments/wknd-spa-react,/content/wknd-spa-reac
+ t
+Implementation-Version: 1.0.3-SNAPSHOT
+Built-By: benjamin.friske
+Implementation-Vendor-Id: com.adobe.aem.guides
+Content-Package-Dependencies: com.adobe.aem.guides:wknd-spa-react.ui.a
+ pps:1.0.3-SNAPSHOT
+Content-Package-Type: content
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_192
+Content-Package-Description: UI content package for WKND SPA React
+Content-Package-Id: com.adobe.aem.guides:wknd-spa-react.ui.content:1.0
+ .3-SNAPSHOT
+

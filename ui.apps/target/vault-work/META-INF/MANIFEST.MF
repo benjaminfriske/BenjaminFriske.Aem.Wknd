@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: WKND SPA React - UI apps
+Implementation-Version: 1.0.3-SNAPSHOT
+Built-By: benjamin.friske
+Implementation-Vendor-Id: com.adobe.aem.guides
+Content-Package-Dependencies: com.adobe.aem:spa.project.core.ui.apps:1
+ .0.6
+Import-Package: com.adobe.aem.guides.wknd.spa.react.core.models;versio
+ n="[1.0.0,2.0.0)",com.adobe.aem.spa.project.core.models;version="[1.0
+ .0,2.0.0)",org.apache.sling.scripting.sightly;version="[2.0.0,3.0.0)"
+Content-Package-Type: application
+Content-Package-Description: UI apps package for WKND SPA React
+Content-Package-Roots: /apps/wknd-spa-react
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_192
+Content-Package-Id: com.adobe.aem.guides:wknd-spa-react.ui.apps:1.0.3-
+ SNAPSHOT
+
